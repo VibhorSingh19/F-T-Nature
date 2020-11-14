@@ -22,7 +22,11 @@ const NavBar= () => {
     </Nav>
     <Nav>
     <Nav.Link href="#home">Home</Nav.Link>
-      </Nav>
+      <Nav.Link href="#about">About</Nav.Link>
+      <Nav.Link href="#skills">Product</Nav.Link>
+      <Nav.Link href="#experience">Coantact</Nav.Link>
+      <Nav.Link href="#projects">Signup</Nav.Link>
+    </Nav>
   </Navbar.Collapse>
 </Navbar>
         </div>
