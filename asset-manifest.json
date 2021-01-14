@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/F-T-Nature/static/css/main.712cb9e4.chunk.css",
+    "main.js": "/F-T-Nature/static/js/main.f77ea30d.chunk.js",
+    "main.js.map": "/F-T-Nature/static/js/main.f77ea30d.chunk.js.map",
+    "runtime-main.js": "/F-T-Nature/static/js/runtime-main.af76f5a1.js",
+    "runtime-main.js.map": "/F-T-Nature/static/js/runtime-main.af76f5a1.js.map",
+    "static/js/2.0b9bfbc6.chunk.js": "/F-T-Nature/static/js/2.0b9bfbc6.chunk.js",
+    "static/js/2.0b9bfbc6.chunk.js.map": "/F-T-Nature/static/js/2.0b9bfbc6.chunk.js.map",
+    "index.html": "/F-T-Nature/index.html",
+    "precache-manifest.24123eff748f199df145772314bc3144.js": "/F-T-Nature/precache-manifest.24123eff748f199df145772314bc3144.js",
+    "service-worker.js": "/F-T-Nature/service-worker.js",
+    "static/css/main.712cb9e4.chunk.css.map": "/F-T-Nature/static/css/main.712cb9e4.chunk.css.map",
+    "static/js/2.0b9bfbc6.chunk.js.LICENSE.txt": "/F-T-Nature/static/js/2.0b9bfbc6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af76f5a1.js",
+    "static/js/2.0b9bfbc6.chunk.js",
+    "static/css/main.712cb9e4.chunk.css",
+    "static/js/main.f77ea30d.chunk.js"
+  ]
+}
