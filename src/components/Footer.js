@@ -2,7 +2,7 @@ import React from 'react';
 import './Footer.css';
 import { Button } from './Button';
 import { Link } from 'react-router-dom';
-
+import logo from './logo.png';
 function Footer() {
   return (
     <div className='footer-container'>
@@ -64,11 +64,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              TRVL
-              <i class='fab fa-typo3' />
+              F&T Nature
+              <img className="logo" src={logo} alt='my portfolio logo'/>
             </Link>
           </div>
-          <small class='website-rights'>TRVL © 2020</small>
+          <small class='website-rights'>F&T Nature © 2020</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
